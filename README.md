@@ -4,4 +4,10 @@ labeled by different AR tags is implemented.The target is to let the robot move 
 AR tag to the last one automatically. The ids encoded in AR tags imply the direction of next
 tag.
 
-Please watch the videos for the detailed demonstration and implementation explanation. Thanks!
+## Demo
+
+
+
+https://user-images.githubusercontent.com/64909195/209472894-15e6ccea-55f9-443d-909d-58c9f585990c.mp4
+
+[![IMAGE ALT TEXT](https://drive.google.com/file/d/13KYHcOYn88gaj0YIwRkGDSthtGLDw-BI/view?usp=sharing "Implementation explanation")
