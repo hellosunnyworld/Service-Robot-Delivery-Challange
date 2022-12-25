@@ -10,4 +10,4 @@ tag.
 
 https://user-images.githubusercontent.com/64909195/209472894-15e6ccea-55f9-443d-909d-58c9f585990c.mp4
 
-[![IMAGE ALT TEXT](https://drive.google.com/file/d/13KYHcOYn88gaj0YIwRkGDSthtGLDw-BI/view?usp=sharing "Implementation explanation")
+
